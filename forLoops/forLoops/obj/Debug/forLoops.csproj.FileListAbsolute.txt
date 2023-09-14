@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\forLoops\forLoops\bin\Debug\forLoops.exe.config
+C:\Users\hp\Desktop\C Sharp\forLoops\forLoops\bin\Debug\forLoops.exe
+C:\Users\hp\Desktop\C Sharp\forLoops\forLoops\bin\Debug\forLoops.pdb
+C:\Users\hp\Desktop\C Sharp\forLoops\forLoops\obj\Debug\forLoops.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\forLoops\forLoops\obj\Debug\forLoops.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\forLoops\forLoops\obj\Debug\forLoops.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\forLoops\forLoops\obj\Debug\forLoops.exe
+C:\Users\hp\Desktop\C Sharp\forLoops\forLoops\obj\Debug\forLoops.pdb

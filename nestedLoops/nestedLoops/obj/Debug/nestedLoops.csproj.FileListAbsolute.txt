@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\nestedLoops\nestedLoops\bin\Debug\nestedLoops.exe.config
+C:\Users\hp\Desktop\C Sharp\nestedLoops\nestedLoops\bin\Debug\nestedLoops.exe
+C:\Users\hp\Desktop\C Sharp\nestedLoops\nestedLoops\bin\Debug\nestedLoops.pdb
+C:\Users\hp\Desktop\C Sharp\nestedLoops\nestedLoops\obj\Debug\nestedLoops.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\nestedLoops\nestedLoops\obj\Debug\nestedLoops.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\nestedLoops\nestedLoops\obj\Debug\nestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\nestedLoops\nestedLoops\obj\Debug\nestedLoops.exe
+C:\Users\hp\Desktop\C Sharp\nestedLoops\nestedLoops\obj\Debug\nestedLoops.pdb

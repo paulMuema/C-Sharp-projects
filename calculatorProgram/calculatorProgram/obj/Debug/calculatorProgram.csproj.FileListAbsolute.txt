@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\calculatorProgram\calculatorProgram\bin\Debug\calculatorProgram.exe.config
+C:\Users\hp\Desktop\C Sharp\calculatorProgram\calculatorProgram\bin\Debug\calculatorProgram.exe
+C:\Users\hp\Desktop\C Sharp\calculatorProgram\calculatorProgram\bin\Debug\calculatorProgram.pdb
+C:\Users\hp\Desktop\C Sharp\calculatorProgram\calculatorProgram\obj\Debug\calculatorProgram.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\calculatorProgram\calculatorProgram\obj\Debug\calculatorProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\calculatorProgram\calculatorProgram\obj\Debug\calculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\calculatorProgram\calculatorProgram\obj\Debug\calculatorProgram.exe
+C:\Users\hp\Desktop\C Sharp\calculatorProgram\calculatorProgram\obj\Debug\calculatorProgram.pdb

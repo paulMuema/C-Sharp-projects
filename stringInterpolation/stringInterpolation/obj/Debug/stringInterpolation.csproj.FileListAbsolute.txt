@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\stringInterpolation\stringInterpolation\bin\Debug\stringInterpolation.exe.config
+C:\Users\hp\Desktop\C Sharp\stringInterpolation\stringInterpolation\bin\Debug\stringInterpolation.exe
+C:\Users\hp\Desktop\C Sharp\stringInterpolation\stringInterpolation\bin\Debug\stringInterpolation.pdb
+C:\Users\hp\Desktop\C Sharp\stringInterpolation\stringInterpolation\obj\Debug\stringInterpolation.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\stringInterpolation\stringInterpolation\obj\Debug\stringInterpolation.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\stringInterpolation\stringInterpolation\obj\Debug\stringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\stringInterpolation\stringInterpolation\obj\Debug\stringInterpolation.exe
+C:\Users\hp\Desktop\C Sharp\stringInterpolation\stringInterpolation\obj\Debug\stringInterpolation.pdb

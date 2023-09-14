@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\bin\Debug\net5.0\inputApplication.exe
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\bin\Debug\net5.0\inputApplication.deps.json
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\bin\Debug\net5.0\inputApplication.runtimeconfig.json
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\bin\Debug\net5.0\inputApplication.runtimeconfig.dev.json
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\bin\Debug\net5.0\inputApplication.dll
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\bin\Debug\net5.0\inputApplication.pdb
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\obj\Debug\net5.0\inputApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\obj\Debug\net5.0\inputApplication.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\obj\Debug\net5.0\inputApplication.AssemblyInfo.cs
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\obj\Debug\net5.0\inputApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\obj\Debug\net5.0\inputApplication.dll
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\obj\Debug\net5.0\ref\inputApplication.dll
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\obj\Debug\net5.0\inputApplication.pdb
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\obj\Debug\net5.0\inputApplication.genruntimeconfig.cache
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\obj\Debug\net5.0\inputApplication.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\inputApplication\inputApplication\obj\Debug\net5.0\refint\inputApplication.dll

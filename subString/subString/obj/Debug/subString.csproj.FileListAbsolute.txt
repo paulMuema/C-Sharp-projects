@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\subString\subString\bin\Debug\subString.exe.config
+C:\Users\hp\Desktop\C Sharp\subString\subString\bin\Debug\subString.exe
+C:\Users\hp\Desktop\C Sharp\subString\subString\bin\Debug\subString.pdb
+C:\Users\hp\Desktop\C Sharp\subString\subString\obj\Debug\subString.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\subString\subString\obj\Debug\subString.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\subString\subString\obj\Debug\subString.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\subString\subString\obj\Debug\subString.exe
+C:\Users\hp\Desktop\C Sharp\subString\subString\obj\Debug\subString.pdb

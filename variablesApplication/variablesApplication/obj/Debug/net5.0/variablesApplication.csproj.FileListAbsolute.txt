@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\bin\Debug\net5.0\variablesApplication.exe
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\bin\Debug\net5.0\variablesApplication.deps.json
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\bin\Debug\net5.0\variablesApplication.runtimeconfig.json
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\bin\Debug\net5.0\variablesApplication.runtimeconfig.dev.json
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\bin\Debug\net5.0\variablesApplication.dll
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\bin\Debug\net5.0\ref\variablesApplication.dll
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\bin\Debug\net5.0\variablesApplication.pdb
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\obj\Debug\net5.0\variablesApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\obj\Debug\net5.0\variablesApplication.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\obj\Debug\net5.0\variablesApplication.AssemblyInfo.cs
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\obj\Debug\net5.0\variablesApplication.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\obj\Debug\net5.0\variablesApplication.dll
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\obj\Debug\net5.0\ref\variablesApplication.dll
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\obj\Debug\net5.0\variablesApplication.pdb
+C:\Users\hp\source\repos\variablesApplication\variablesApplication\obj\Debug\net5.0\variablesApplication.genruntimeconfig.cache

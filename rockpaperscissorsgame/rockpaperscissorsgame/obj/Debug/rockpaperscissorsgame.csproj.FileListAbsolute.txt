@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\rockpaperscissorsgame\rockpaperscissorsgame\bin\Debug\rockpaperscissorsgame.exe.config
+C:\Users\hp\Desktop\C Sharp\rockpaperscissorsgame\rockpaperscissorsgame\bin\Debug\rockpaperscissorsgame.exe
+C:\Users\hp\Desktop\C Sharp\rockpaperscissorsgame\rockpaperscissorsgame\bin\Debug\rockpaperscissorsgame.pdb
+C:\Users\hp\Desktop\C Sharp\rockpaperscissorsgame\rockpaperscissorsgame\obj\Debug\rockpaperscissorsgame.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\rockpaperscissorsgame\rockpaperscissorsgame\obj\Debug\rockpaperscissorsgame.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\rockpaperscissorsgame\rockpaperscissorsgame\obj\Debug\rockpaperscissorsgame.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\rockpaperscissorsgame\rockpaperscissorsgame\obj\Debug\rockpaperscissorsgame.exe
+C:\Users\hp\Desktop\C Sharp\rockpaperscissorsgame\rockpaperscissorsgame\obj\Debug\rockpaperscissorsgame.pdb
