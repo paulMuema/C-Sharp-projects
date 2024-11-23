@@ -1,2 +1,2 @@
 # C-Sharp-projects
-A repository containing C-Sharp programs
+A repository used to learn C-Sharp Programming
