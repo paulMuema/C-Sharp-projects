@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\logicalOperators\logicalOperators\bin\Debug\logicalOperators.exe.config
+C:\Users\hp\Desktop\C Sharp\logicalOperators\logicalOperators\bin\Debug\logicalOperators.exe
+C:\Users\hp\Desktop\C Sharp\logicalOperators\logicalOperators\bin\Debug\logicalOperators.pdb
+C:\Users\hp\Desktop\C Sharp\logicalOperators\logicalOperators\obj\Debug\logicalOperators.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\logicalOperators\logicalOperators\obj\Debug\logicalOperators.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\logicalOperators\logicalOperators\obj\Debug\logicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\logicalOperators\logicalOperators\obj\Debug\logicalOperators.exe
+C:\Users\hp\Desktop\C Sharp\logicalOperators\logicalOperators\obj\Debug\logicalOperators.pdb

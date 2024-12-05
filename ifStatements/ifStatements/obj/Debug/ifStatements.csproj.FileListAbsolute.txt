@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\ifStatements\ifStatements\bin\Debug\ifStatements.exe.config
+C:\Users\hp\Desktop\C Sharp\ifStatements\ifStatements\bin\Debug\ifStatements.exe
+C:\Users\hp\Desktop\C Sharp\ifStatements\ifStatements\bin\Debug\ifStatements.pdb
+C:\Users\hp\Desktop\C Sharp\ifStatements\ifStatements\obj\Debug\ifStatements.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\ifStatements\ifStatements\obj\Debug\ifStatements.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\ifStatements\ifStatements\obj\Debug\ifStatements.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\ifStatements\ifStatements\obj\Debug\ifStatements.exe
+C:\Users\hp\Desktop\C Sharp\ifStatements\ifStatements\obj\Debug\ifStatements.pdb

@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\cuboidVolume\cuboidVolume\bin\Debug\cuboidVolume.exe.config
+C:\Users\hp\Desktop\C Sharp\cuboidVolume\cuboidVolume\bin\Debug\cuboidVolume.exe
+C:\Users\hp\Desktop\C Sharp\cuboidVolume\cuboidVolume\bin\Debug\cuboidVolume.pdb
+C:\Users\hp\Desktop\C Sharp\cuboidVolume\cuboidVolume\obj\Debug\cuboidVolume.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\cuboidVolume\cuboidVolume\obj\Debug\cuboidVolume.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\cuboidVolume\cuboidVolume\obj\Debug\cuboidVolume.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\cuboidVolume\cuboidVolume\obj\Debug\cuboidVolume.exe
+C:\Users\hp\Desktop\C Sharp\cuboidVolume\cuboidVolume\obj\Debug\cuboidVolume.pdb

@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\practiceExercise_1\practiceExercise_1\bin\Debug\practiceExercise_1.exe.config
+C:\Users\hp\Desktop\C Sharp\practiceExercise_1\practiceExercise_1\bin\Debug\practiceExercise_1.exe
+C:\Users\hp\Desktop\C Sharp\practiceExercise_1\practiceExercise_1\bin\Debug\practiceExercise_1.pdb
+C:\Users\hp\Desktop\C Sharp\practiceExercise_1\practiceExercise_1\obj\Debug\practiceExercise_1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\practiceExercise_1\practiceExercise_1\obj\Debug\practiceExercise_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\practiceExercise_1\practiceExercise_1\obj\Debug\practiceExercise_1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\practiceExercise_1\practiceExercise_1\obj\Debug\practiceExercise_1.exe
+C:\Users\hp\Desktop\C Sharp\practiceExercise_1\practiceExercise_1\obj\Debug\practiceExercise_1.pdb

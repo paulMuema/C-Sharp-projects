@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\bin\Debug\net5.0\arithmeticOperators.exe
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\bin\Debug\net5.0\arithmeticOperators.deps.json
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\bin\Debug\net5.0\arithmeticOperators.runtimeconfig.json
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\bin\Debug\net5.0\arithmeticOperators.runtimeconfig.dev.json
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\bin\Debug\net5.0\arithmeticOperators.dll
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\bin\Debug\net5.0\arithmeticOperators.pdb
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\obj\Debug\net5.0\arithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\obj\Debug\net5.0\arithmeticOperators.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\obj\Debug\net5.0\arithmeticOperators.AssemblyInfo.cs
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\obj\Debug\net5.0\arithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\obj\Debug\net5.0\arithmeticOperators.dll
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\obj\Debug\net5.0\ref\arithmeticOperators.dll
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\obj\Debug\net5.0\arithmeticOperators.pdb
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\obj\Debug\net5.0\arithmeticOperators.genruntimeconfig.cache
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\obj\Debug\net5.0\arithmeticOperators.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\arithmeticOperators\arithmeticOperators\obj\Debug\net5.0\refint\arithmeticOperators.dll

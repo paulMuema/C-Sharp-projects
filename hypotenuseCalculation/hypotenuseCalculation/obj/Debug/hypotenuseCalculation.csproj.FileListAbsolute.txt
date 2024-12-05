@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\hypotenuseCalculation\hypotenuseCalculation\bin\Debug\hypotenuseCalculation.exe.config
+C:\Users\hp\Desktop\C Sharp\hypotenuseCalculation\hypotenuseCalculation\bin\Debug\hypotenuseCalculation.exe
+C:\Users\hp\Desktop\C Sharp\hypotenuseCalculation\hypotenuseCalculation\bin\Debug\hypotenuseCalculation.pdb
+C:\Users\hp\Desktop\C Sharp\hypotenuseCalculation\hypotenuseCalculation\obj\Debug\hypotenuseCalculation.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\hypotenuseCalculation\hypotenuseCalculation\obj\Debug\hypotenuseCalculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\hypotenuseCalculation\hypotenuseCalculation\obj\Debug\hypotenuseCalculation.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\hypotenuseCalculation\hypotenuseCalculation\obj\Debug\hypotenuseCalculation.exe
+C:\Users\hp\Desktop\C Sharp\hypotenuseCalculation\hypotenuseCalculation\obj\Debug\hypotenuseCalculation.pdb

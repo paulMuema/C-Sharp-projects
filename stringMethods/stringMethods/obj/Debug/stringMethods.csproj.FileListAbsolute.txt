@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\stringMethods\stringMethods\bin\Debug\stringMethods.exe.config
+C:\Users\hp\Desktop\C Sharp\stringMethods\stringMethods\bin\Debug\stringMethods.exe
+C:\Users\hp\Desktop\C Sharp\stringMethods\stringMethods\bin\Debug\stringMethods.pdb
+C:\Users\hp\Desktop\C Sharp\stringMethods\stringMethods\obj\Debug\stringMethods.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\stringMethods\stringMethods\obj\Debug\stringMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\stringMethods\stringMethods\obj\Debug\stringMethods.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\stringMethods\stringMethods\obj\Debug\stringMethods.exe
+C:\Users\hp\Desktop\C Sharp\stringMethods\stringMethods\obj\Debug\stringMethods.pdb

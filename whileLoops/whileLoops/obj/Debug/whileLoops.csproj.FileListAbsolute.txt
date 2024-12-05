@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\whileLoops\whileLoops\bin\Debug\whileLoops.exe.config
+C:\Users\hp\Desktop\C Sharp\whileLoops\whileLoops\bin\Debug\whileLoops.exe
+C:\Users\hp\Desktop\C Sharp\whileLoops\whileLoops\bin\Debug\whileLoops.pdb
+C:\Users\hp\Desktop\C Sharp\whileLoops\whileLoops\obj\Debug\whileLoops.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\whileLoops\whileLoops\obj\Debug\whileLoops.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\whileLoops\whileLoops\obj\Debug\whileLoops.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\whileLoops\whileLoops\obj\Debug\whileLoops.exe
+C:\Users\hp\Desktop\C Sharp\whileLoops\whileLoops\obj\Debug\whileLoops.pdb

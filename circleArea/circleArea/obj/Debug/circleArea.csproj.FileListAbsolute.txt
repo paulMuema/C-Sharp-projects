@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\circleArea\circleArea\bin\Debug\circleArea.exe.config
+C:\Users\hp\Desktop\C Sharp\circleArea\circleArea\bin\Debug\circleArea.exe
+C:\Users\hp\Desktop\C Sharp\circleArea\circleArea\bin\Debug\circleArea.pdb
+C:\Users\hp\Desktop\C Sharp\circleArea\circleArea\obj\Debug\circleArea.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\circleArea\circleArea\obj\Debug\circleArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\circleArea\circleArea\obj\Debug\circleArea.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\circleArea\circleArea\obj\Debug\circleArea.exe
+C:\Users\hp\Desktop\C Sharp\circleArea\circleArea\obj\Debug\circleArea.pdb

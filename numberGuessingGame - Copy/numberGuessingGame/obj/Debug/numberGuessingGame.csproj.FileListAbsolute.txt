@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\numberGuessingGame\numberGuessingGame\bin\Debug\numberGuessingGame.exe.config
+C:\Users\hp\Desktop\C Sharp\numberGuessingGame\numberGuessingGame\bin\Debug\numberGuessingGame.exe
+C:\Users\hp\Desktop\C Sharp\numberGuessingGame\numberGuessingGame\bin\Debug\numberGuessingGame.pdb
+C:\Users\hp\Desktop\C Sharp\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.exe
+C:\Users\hp\Desktop\C Sharp\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.pdb

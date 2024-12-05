@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\C Sharp\switches\switches\bin\Debug\switches.exe.config
+C:\Users\hp\Desktop\C Sharp\switches\switches\bin\Debug\switches.exe
+C:\Users\hp\Desktop\C Sharp\switches\switches\bin\Debug\switches.pdb
+C:\Users\hp\Desktop\C Sharp\switches\switches\obj\Debug\switches.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C Sharp\switches\switches\obj\Debug\switches.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C Sharp\switches\switches\obj\Debug\switches.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C Sharp\switches\switches\obj\Debug\switches.exe
+C:\Users\hp\Desktop\C Sharp\switches\switches\obj\Debug\switches.pdb
